@@ -19,7 +19,7 @@ import (
 	bindata "github.com/audrius-paskevicius/asticode-go-bindata"
 	"github.com/sam-kamerer/go-plister"
 )
- 
+
 // Configuration represents the bundle configuration
 type Configuration struct {
 	// The app name as it should be displayed everywhere
@@ -201,15 +201,12 @@ func New(c *Configuration, l astikit.StdLogger) (b *Bundler, err error) {
 	if b.ldflags == nil {
 		b.ldflags = make(LDFlags)
 	}
-
 	if c.VersionAstilectron != "" {
 		b.versionAstilectron = c.VersionAstilectron
 	}
-
 	if c.VersionElectron != "" {
 		b.versionElectron = c.VersionElectron
 	}
-
 	if len(c.BuildFlags) > 0 {
 		b.buildFlags = c.BuildFlags
 	}
