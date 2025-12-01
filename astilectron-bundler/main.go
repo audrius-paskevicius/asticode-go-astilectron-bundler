@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/asticode/go-astikit"
-	astibundler "github.com/asticode/go-astilectron-bundler"
+	astikit "github.com/asticode-go-astikit"
+	astibundler "github.com/audrius-paskevicius/asticode-go-astilectron-bundler"
 )
 
 var ldflags = LDFlags{}

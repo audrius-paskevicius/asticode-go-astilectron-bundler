@@ -3,8 +3,8 @@ package astibundler
 import (
 	"path/filepath"
 
-	"github.com/asticode/go-astikit"
-	"github.com/asticode/go-astilectron"
+	astikit "github.com/asticode-go-astikit"
+	astilectron "github.com/asticode-go-astilectron"
 )
 
 // Constants

@@ -14,9 +14,8 @@ import (
 	"time"
 
 	"github.com/akavel/rsrc/rsrc"
-	"github.com/asticode/go-astikit"
-	"github.com/asticode/go-astilectron"
-	"github.com/asticode/go-bindata"
+	astikit "github.com/asticode-go-astikit"
+	astilectron "github.com/asticode-go-astilectron"
 	"github.com/sam-kamerer/go-plister"
 )
 
