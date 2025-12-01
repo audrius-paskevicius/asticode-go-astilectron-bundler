@@ -19,7 +19,7 @@ import (
 	bindata "github.com/audrius-paskevicius/asticode-go-bindata"
 	"github.com/sam-kamerer/go-plister"
 )
-
+ 
 // Configuration represents the bundle configuration
 type Configuration struct {
 	// The app name as it should be displayed everywhere
