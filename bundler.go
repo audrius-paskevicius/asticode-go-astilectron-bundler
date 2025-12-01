@@ -205,6 +205,7 @@ func New(c *Configuration, l astikit.StdLogger) (b *Bundler, err error) {
 	if c.VersionAstilectron != "" {
 		b.versionAstilectron = c.VersionAstilectron
 	}
+
 	if c.VersionElectron != "" {
 		b.versionElectron = c.VersionElectron
 	}
