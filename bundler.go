@@ -16,6 +16,7 @@ import (
 	"github.com/akavel/rsrc/rsrc"
 	astikit "github.com/audrius-paskevicius/asticode-go-astikit"
 	astilectron "github.com/audrius-paskevicius/asticode-go-astilectron"
+	bindata "github.com/audrius-paskevicius/asticode-go-bindata"
 	"github.com/sam-kamerer/go-plister"
 )
 

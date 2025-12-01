@@ -4,6 +4,8 @@ github.com/audrius-paskevicius/asticode-go-astikit v0.0.0-20251201151259-4df6122
 github.com/audrius-paskevicius/asticode-go-astikit v0.0.0-20251201151259-4df61223fd76/go.mod h1:SuwW7MPSWAVC/3pvJRxaM4WZfuNwZGfZsp4lK4+QIpw=
 github.com/audrius-paskevicius/asticode-go-astilectron v0.0.0-20251201152144-315d41e2fe48 h1:GREDOBHtWOHSW31e9T/5yBa5FZoMal63iWNbW8stlBQ=
 github.com/audrius-paskevicius/asticode-go-astilectron v0.0.0-20251201152144-315d41e2fe48/go.mod h1:pwK5/Wy3bZUCJ5EwAeMC3fhf5zBMOsYvK9JK7L+HXnI=
+github.com/audrius-paskevicius/asticode-go-bindata v0.0.0-20251201154002-46daa6c78bce h1:gvhOt63BYiOm+HlSDSvEXep+NTU8p1TMbPhNnkvvzEk=
+github.com/audrius-paskevicius/asticode-go-bindata v0.0.0-20251201154002-46daa6c78bce/go.mod h1:rmsy5q2Js6g77Rip21sJX0C8I14vygV0wnUjSlgJoEM=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
