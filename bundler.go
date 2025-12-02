@@ -370,7 +370,7 @@ func (b *Bundler) Bundle() (err error) {
 	return
 }
 
-// bundle bundles an os
+// Bundle bundles an os
 func (b *Bundler) bundle(e ConfigurationEnvironment) (err error) {
 	// Bind data
 	b.l.Debug("Binding data")
